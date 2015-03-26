@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+python_production_script_recipe.egg-info/
+.tox/
+.coverage
+
