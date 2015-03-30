@@ -34,6 +34,7 @@ def run(offset):
 
 
 if __name__ == '__main__':  # pragma: no cover
+    # No logic here, only function calls.
     configure_logging()
     args = get_arguments()
     run(offset=args.offset)
